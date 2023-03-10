@@ -1,0 +1,20 @@
+
+.card{
+    background-color: white;
+    border-radius: 25px ;
+    border: solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+
+}
+.insidecard{
+    height: 200px;
+    text-align: center;
+    font-family: ou
+}
+img{
+    width: 20em;
+    border-radius: 15%;
+}
